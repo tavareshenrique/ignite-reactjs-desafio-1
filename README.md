@@ -10,7 +10,7 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-263EAB">
 </p>
 
-> Primeiro desafio da trilha de ReactJS do Ignite da [Rocketseat](https://github.com/Rocketseat). O projeto consiste em adicionar, marcar e remover To Do's.
+> Primeiro desafio da trilha de React do Ignite da [Rocketseat](https://github.com/Rocketseat). O projeto consiste em adicionar, marcar e remover To Do's.
 
 # :pushpin: Conteúdo
 
